@@ -1,0 +1,26 @@
+{
+  "name": "status-promise",
+  "version": "1.0.0",
+  "description": "A Promise that exposes a status (fulfilled, rejected or pending).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests for status-promise\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catcher-in-the-try/status-promise.git"
+  },
+  "keywords": [
+    "promise",
+    "status",
+    "promise-with-status",
+    "bluebird",
+    "promise-status"
+  ],
+  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/catcher-in-the-try/status-promise/issues"
+  },
+  "homepage": "https://github.com/catcher-in-the-try/status-promise#readme"
+}
